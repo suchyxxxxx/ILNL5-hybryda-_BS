@@ -3,7 +3,7 @@ name: Zgłoszenie błędu
 about: Zgłoś błąd na stronie
 title: "[BUG] Krótki opis"
 lables: bug
-assignees
+assignees: ""
 ---
 
 **Opis błędu**
