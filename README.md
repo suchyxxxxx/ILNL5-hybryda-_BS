@@ -6,5 +6,7 @@ Przewodnik dostępny jest na stronie [stronie](https://suchyxxxxx.github.io/ILNL
 - [Technologie](#technologie)
 - [Autorzy](#autorzy)
 
-Technologie
+# Technologie
   - htlm, css, javascript, git, github
+
+Chcesz pomóc? Super! Zobacz zasady dotyczące współpracy w [CONTRIBUTING.md](CONTRIBUTING.md).
